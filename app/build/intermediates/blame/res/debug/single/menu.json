@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_scan.xml",
+        "source": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\src\\main\\res\\menu\\gatt_scan.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_service.xml",
+        "source": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\src\\main\\res\\layout\\listitem_service.xml"
+    },
+    {
+        "merged": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_characteristic.xml",
+        "source": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\src\\main\\res\\layout\\listitem_characteristic.xml"
+    },
+    {
+        "merged": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demo_opengl.xml",
+        "source": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\src\\main\\res\\layout\\demo_opengl.xml"
+    },
+    {
+        "merged": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "F:\\BLE-Heart-rate-variability-demo-master1\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    }
+]
